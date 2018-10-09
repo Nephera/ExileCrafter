@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Item>
+	<OHAxe text="Axe (1h)">
+		<Prefixes><Normal></Normal><Elder></Elder><Shaper></Shaper></Prefixes>
+		<Suffixes><Normal></Normal><Elder></Elder><Shaper></Shaper></Suffixes></OHAxe>	
+	<THAxe text="Axe (2h)">
+		<Prefixes><Normal></Normal><Elder></Elder><Shaper></Shaper></Prefixes>
+		<Suffixes><Normal></Normal><Elder></Elder><Shaper></Shaper></Suffixes></THAxe>
+	<Bow text="Bow">
+		<Prefixes><Normal></Normal><Elder></Elder><Shaper></Shaper></Prefixes>
+		<Suffixes><Normal></Normal><Elder></Elder><Shaper></Shaper></Suffixes></Bow>
+	<Claw text="Claw">
+		<Prefixes><Normal></Normal><Elder></Elder><Shaper></Shaper></Prefixes>
+		<Suffixes><Normal></Normal><Elder></Elder><Shaper></Shaper></Suffixes></Claw>
+	<Dagger text="Dagger">
+		<Prefixes><Normal></Normal><Elder></Elder><Shaper></Shaper></Prefixes>
+		<Suffixes><Normal></Normal><Elder></Elder><Shaper></Shaper></Suffixes></Dagger>
+	<OHMace text="Mace (1h)">
+		<Prefixes><Normal></Normal><Elder></Elder><Shaper></Shaper></Prefixes>
+		<Suffixes><Normal></Normal><Elder></Elder><Shaper></Shaper></Suffixes></OHMace>
+	<THMace text="Mace (2h)">
+		<Prefixes><Normal></Normal><Elder></Elder><Shaper></Shaper></Prefixes>
+		<Suffixes><Normal></Normal><Elder></Elder><Shaper></Shaper></Suffixes></THMace>
+	<Sceptre text="Sceptre">
+		<Prefixes><Normal></Normal><Elder></Elder><Shaper></Shaper></Prefixes>
+		<Suffixes><Normal></Normal><Elder></Elder><Shaper></Shaper></Suffixes></Sceptre>
+	<Staff text="Staff">
+		<Prefixes><Normal></Normal><Elder></Elder><Shaper></Shaper></Prefixes>
+		<Suffixes><Normal></Normal><Elder></Elder><Shaper></Shaper></Suffixes></Staff>
+	<OHSword text="Sword (1h)">
+		<Prefixes><Normal></Normal><Elder></Elder><Shaper></Shaper></Prefixes>
+		<Suffixes><Normal></Normal><Elder></Elder><Shaper></Shaper></Suffixes></OHSword>
+	<THSword text="Sword (2h)">
+		<Prefixes><Normal></Normal><Elder></Elder><Shaper></Shaper></Prefixes>
+		<Suffixes><Normal></Normal><Elder></Elder><Shaper></Shaper></Suffixes></THSword>
+	<Wand text="Wand">
+		<Prefixes><Normal></Normal><Elder></Elder><Shaper></Shaper></Prefixes>
+		<Suffixes><Normal></Normal><Elder></Elder><Shaper></Shaper></Suffixes></Wand>
+	<FishingRod text="Fishing Rod">
+		<Prefixes><Normal></Normal><Elder></Elder><Shaper></Shaper></Prefixes>
+		<Suffixes><Normal></Normal><Elder></Elder><Shaper></Shaper></Suffixes></FishingRod>
+	<BodyArmorA text="Body Armor (Armor)">
+		<Prefixes><Normal></Normal><Elder></Elder><Shaper></Shaper></Prefixes>
+		<Suffixes><Normal></Normal><Elder></Elder><Shaper></Shaper></Suffixes></BodyArmorA>
+	<BodyArmorS text="Body Armor (Energy Shield)">
+		<Prefixes><Normal></Normal><Elder></Elder><Shaper></Shaper></Prefixes>
+		<Suffixes><Normal></Normal><Elder></Elder><Shaper></Shaper></Suffixes></BodyArmorS>
+	<BodyArmorE text="Body Armor (Evasion)">
+		<Prefixes><Normal></Normal><Elder></Elder><Shaper></Shaper></Prefixes>
+		<Suffixes><Normal></Normal><Elder></Elder><Shaper></Shaper></Suffixes></BodyArmorE>
+	<BodyArmorAS text="Body Armor (Armor/Energy Shield)">
+		<Prefixes><Normal></Normal><Elder></Elder><Shaper></Shaper></Prefixes>
+		<Suffixes><Normal></Normal><Elder></Elder><Shaper></Shaper></Suffixes></BodyArmorAS>
+	<BodyArmorAE text="Body Armor (Armor/Evasion)">
+		<Prefixes><Normal></Normal><Elder></Elder><Shaper></Shaper></Prefixes>
+		<Suffixes><Normal></Normal><Elder></Elder><Shaper></Shaper></Suffixes></BodyArmorAE>
+	<BodyArmorES text="Body Armor (Evasion/Energy Shield)">
+		<Prefixes><Normal></Normal><Elder></Elder><Shaper></Shaper></Prefixes>
+		<Suffixes><Normal></Normal><Elder></Elder><Shaper></Shaper></Suffixes></BodyArmorES>
+	<BodyArmorGarb text="Body Armor (Sacrificial Garb)">
+		<Prefixes><Normal></Normal><Elder></Elder><Shaper></Shaper></Prefixes>
+		<Suffixes><Normal></Normal><Elder></Elder><Shaper></Shaper></Suffixes></BodyArmorGarb>
+	<HelmetA text="Helmet (Armor)">
+		<Prefixes><Normal></Normal><Elder></Elder><Shaper></Shaper></Prefixes>
+		<Suffixes><Normal></Normal><Elder></Elder><Shaper></Shaper></Suffixes></HelmetA>
+	<HelmetS text="Helmet (Energy Shield)">
+		<Prefixes><Normal></Normal><Elder></Elder><Shaper></Shaper></Prefixes>
+		<Suffixes><Normal></Normal><Elder></Elder><Shaper></Shaper></Suffixes></HelmetS>
+	<HelmetE text="Helmet (Evasion)">
+		<Prefixes><Normal></Normal><Elder></Elder><Shaper></Shaper></Prefixes>
+		<Suffixes><Normal></Normal><Elder></Elder><Shaper></Shaper></Suffixes></HelmetE>
+	<HelmetAE text="Helmet (Armor/Evasion)">
+		<Prefixes><Normal></Normal><Elder></Elder><Shaper></Shaper></Prefixes>
+		<Suffixes><Normal></Normal><Elder></Elder><Shaper></Shaper></Suffixes></HelmetAE>
+	<HelmetES text="Helmet (Evasion/Energy Shield)">
+		<Prefixes><Normal></Normal><Elder></Elder><Shaper></Shaper></Prefixes>
+		<Suffixes><Normal></Normal><Elder></Elder><Shaper></Shaper></Suffixes></HelmetES>
+	<HelmetAS text="Helmet (Armor/Energy Shield)">
+		<Prefixes><Normal></Normal><Elder></Elder><Shaper></Shaper></Prefixes>
+		<Suffixes><Normal></Normal><Elder></Elder><Shaper></Shaper></Suffixes></HelmetAS>
+	<GlovesA text="Gloves (Armor)">
+		<Prefixes><Normal></Normal><Elder></Elder><Shaper></Shaper></Prefixes>
+		<Suffixes><Normal></Normal><Elder></Elder><Shaper></Shaper></Suffixes></GlovesA>
+	<GlovesS text="Gloves (Energy Shield)">
+		<Prefixes><Normal></Normal><Elder></Elder><Shaper></Shaper></Prefixes>
+		<Suffixes><Normal></Normal><Elder></Elder><Shaper></Shaper></Suffixes></GlovesS>
+	<GlovesE text="Gloves (Evasion)">
+		<Prefixes><Normal></Normal><Elder></Elder><Shaper></Shaper></Prefixes>
+		<Suffixes><Normal></Normal><Elder></Elder><Shaper></Shaper></Suffixes></GlovesE>
+	<GlovesAE text="Gloves (Armor/Evasion)">
+		<Prefixes>
+			<Normal>
+			<Reflect text="Adds # to # Physical Damage to Attacks" modName="Physical Damage">
+				<T4 iLvl="2" minVal1="1" maxVal1="1" minVal2="2" maxVal2="2" displayText="Adds 1-1 to 2-2 Physical Damage to Attacks"></T4></Reflect>
+			</Normal>
+			<Elder></Elder><Shaper></Shaper></Prefixes>
+		<Suffixes><Normal></Normal><Elder></Elder><Shaper></Shaper></Suffixes></GlovesAE>
+	<GlovesAS text="Gloves (Armor/Energy Shield)">
+		<Prefixes><Normal></Normal><Elder></Elder><Shaper></Shaper></Prefixes>
+		<Suffixes><Normal></Normal><Elder></Elder><Shaper></Shaper></Suffixes></GlovesAS>
+	<GlovesES text="Gloves (Evasion/Energy Shield)">
+		<Prefixes><Normal></Normal><Elder></Elder><Shaper></Shaper></Prefixes>
+		<Suffixes><Normal></Normal><Elder></Elder><Shaper></Shaper></Suffixes></GlovesES>
+	<BootsA text="Boots (Armor)">
+		<Prefixes><Normal></Normal><Elder></Elder><Shaper></Shaper></Prefixes>
+		<Suffixes><Normal></Normal><Elder></Elder><Shaper></Shaper></Suffixes></BootsA>
+	<BootsS text="Boots (Energy Shield)">
+		<Prefixes><Normal></Normal><Elder></Elder><Shaper></Shaper></Prefixes>
+		<Suffixes><Normal></Normal><Elder></Elder><Shaper></Shaper></Suffixes></BootsS>
+	<BootsE text="Boots (Evasion)">
+		<Prefixes><Normal></Normal><Elder></Elder><Shaper></Shaper></Prefixes>
+		<Suffixes><Normal></Normal><Elder></Elder><Shaper></Shaper></Suffixes></BootsE>
+	<BootsAS text="Boots (Armor/Energy Shield)">
+		<Prefixes><Normal></Normal><Elder></Elder><Shaper></Shaper></Prefixes>
+		<Suffixes><Normal></Normal><Elder></Elder><Shaper></Shaper></Suffixes></BootsAS>
+	<BootsAE text="Boots (Armor/Evasion)">
+		<Prefixes><Normal></Normal><Elder></Elder><Shaper></Shaper></Prefixes>
+		<Suffixes><Normal></Normal><Elder></Elder><Shaper></Shaper></Suffixes></BootsAE>
+	<BootsES text="Boots (Evasion/Energy Shield)">
+		<Prefixes><Normal></Normal><Elder></Elder><Shaper></Shaper></Prefixes>
+		<Suffixes><Normal></Normal><Elder></Elder><Shaper></Shaper></Suffixes></BootsES>
+	<ShieldA text="Shield (Armor)">
+		<Prefixes><Normal></Normal><Elder></Elder><Shaper></Shaper></Prefixes>
+		<Suffixes><Normal></Normal><Elder></Elder><Shaper></Shaper></Suffixes></ShieldA>
+	<ShieldS text="Shield (Energy Shield)">
+		<Prefixes><Normal></Normal><Elder></Elder><Shaper></Shaper></Prefixes>
+		<Suffixes><Normal></Normal><Elder></Elder><Shaper></Shaper></Suffixes></ShieldS>
+	<ShieldE text="Shield (Evasion)">
+		<Prefixes><Normal></Normal><Elder></Elder><Shaper></Shaper></Prefixes>
+		<Suffixes><Normal></Normal><Elder></Elder><Shaper></Shaper></Suffixes></ShieldE>
+	<ShieldAS text="Shield (Armor/Energy Shield)">
+		<Prefixes><Normal></Normal><Elder></Elder><Shaper></Shaper></Prefixes>
+		<Suffixes><Normal></Normal><Elder></Elder><Shaper></Shaper></Suffixes></ShieldAS>
+	<ShieldAE text="Shield (Armor/Evasion)">
+		<Prefixes><Normal></Normal><Elder></Elder><Shaper></Shaper></Prefixes>
+		<Suffixes><Normal></Normal><Elder></Elder><Shaper></Shaper></Suffixes></ShieldAE>
+	<ShieldES text="Shield (Evasion/Energy Shield)">
+		<Prefixes><Normal></Normal><Elder></Elder><Shaper></Shaper></Prefixes>
+		<Suffixes><Normal></Normal><Elder></Elder><Shaper></Shaper></Suffixes></ShieldES>
+	<Amulet text="Amulet">
+		<Prefixes><Normal></Normal><Elder></Elder><Shaper></Shaper></Prefixes>
+		<Suffixes><Normal></Normal><Elder></Elder><Shaper></Shaper></Suffixes></Amulet>
+	<Belt text="Belt">
+		<Prefixes>
+			<Normal>
+			<Reflect text="Reflects # Physical Damage to Melee Attackers" modName="Reflect">
+				<T1 iLvl="10" minVal1="5" maxVal1="10" minVal2="0" maxVal2="0" displayText="Reflects 5-10 Physical Damage to Melee Attackers"></T1>
+				<T2 iLvl="1" minVal1="1" maxVal1="4" minVal2="0" maxVal2="0" displayText="Reflects 1-4 Physical Damage to Melee Attackers"></T2></Reflect>
+			<Armor text="+# to Armour" modName="Armor">
+				<T1 iLvl="86" minVal1="461" maxVal1="540" minVal2="0" maxVal2="0" displayText="+461-540 to Armour"></T1>
+				<T2 iLvl="83" minVal1="401" maxVal1="460" minVal2="0" maxVal2="0" displayText="+401-460 to Armour"></T2>
+				<T3 iLvl="71" minVal1="323" maxVal1="400" minVal2="0" maxVal2="0" displayText="+323-400 to Armour"></T3>
+				<T4 iLvl="57" minVal1="139" maxVal1="322" minVal2="0" maxVal2="0" displayText="+139-322 to Armour"></T4>
+				<T5 iLvl="44" minVal1="61" maxVal1="138" minVal2="0" maxVal2="0" displayText="+61-138 to Armour"></T5>
+				<T6 iLvl="30" minVal1="36" maxVal1="60" minVal2="0" maxVal2="0" displayText="+36-60 to Armour"></T6>
+				<T7 iLvl="18" minVal1="11" maxVal1="35" minVal2="0" maxVal2="0" displayText="+11-35 to Armour"></T7>
+				<T8 iLvl="1" minVal1="3" maxVal1="10" minVal2="0" maxVal2="0" displayText="+3-10 to Armour"></T8></Armor>
+			<EnergyShield text="+# to Maximum Energy Shield" modName="Energy Shield">
+				<T1 iLvl="80" minVal1="48" maxVal1="51" minVal2="0" maxVal2="0" displayText="+48-51 to Maximum Energy Shield"></T1>
+				<T2 iLvl="74" minVal1="44" maxVal1="47" minVal2="0" maxVal2="0" displayText="+44-47 to Maximum Energy Shield"></T2>
+				<T3 iLvl="68" minVal1="38" maxVal1="43" minVal2="0" maxVal2="0" displayText="+38-43 to Maximum Energy Shield"></T3>
+				<T4 iLvl="59" minVal1="32" maxVal1="37" minVal2="0" maxVal2="0" displayText="+32-37 to Maximum Energy Shield"></T4>
+				<T5 iLvl="50" minVal1="27" maxVal1="31" minVal2="0" maxVal2="0" displayText="+27-31 to Maximum Energy Shield"></T5>
+				<T6 iLvl="42" minVal1="23" maxVal1="26" minVal2="0" maxVal2="0" displayText="+23-26 to Maximum Energy Shield"></T6>
+				<T7 iLvl="35" minVal1="20" maxVal1="22" minVal2="0" maxVal2="0" displayText="+20-22 to Maximum Energy Shield"></T7>
+				<T8 iLvl="29" minVal1="16" maxVal1="19" minVal2="0" maxVal2="0" displayText="+16-19 to Maximum Energy Shield"></T8>
+				<T9 iLvl="23" minVal1="13" maxVal1="15" minVal2="0" maxVal2="0" displayText="+13-15 to Maximum Energy Shield"></T9>
+				<T10 iLvl="17" minVal1="9" maxVal1="12" minVal2="0" maxVal2="0" displayText="+9-12 to Maximum Energy Shield"></T10>
+				<T11 iLvl="11" minVal1="4" maxVal1="8" minVal2="0" maxVal2="0" displayText="+4-8 to Maximum Energy Shield"></T11>
+				<T12 iLvl="3" minVal1="3" maxVal1="1" minVal2="0" maxVal2="0" displayText="+1-3 to Maximum Energy Shield"></T12></EnergyShield>
+			<FlatLife text="+# to Maximum Life" modName="Life">
+				<T1 iLvl="64" minVal1="90" maxVal1="99" minVal2="0" maxVal2="0" displayText="+90-99 to Maximum Life"></T1>
+				<T2 iLvl="54" minVal1="80" maxVal1="89" minVal2="0" maxVal2="0" displayText="+80-89 to Maximum Life"></T2>
+				<T3 iLvl="44" minVal1="70" maxVal1="79" minVal2="0" maxVal2="0" displayText="+70-79 to Maximum Life"></T3>
+				<T4 iLvl="36" minVal1="60" maxVal1="69" minVal2="0" maxVal2="0" displayText="+60-69 to Maximum Life"></T4>
+				<T5 iLvl="30" minVal1="50" maxVal1="59" minVal2="0" maxVal2="0" displayText="+50-59 to Maximum Life"></T5>
+				<T6 iLvl="24" minVal1="40" maxVal1="49" minVal2="0" maxVal2="0" displayText="+40-49 to Maximum Life"></T6>
+				<T7 iLvl="18" minVal1="30" maxVal1="39" minVal2="0" maxVal2="0" displayText="+30-39 to Maximum Life"></T7>
+				<T8 iLvl="11" minVal1="20" maxVal1="29" minVal2="0" maxVal2="0" displayText="+20-29 to Maximum Life"></T8>
+				<T9 iLvl="5" minVal1="10" maxVal1="19" minVal2="0" maxVal2="0" displayText="+10-19 to Maximum Life"></T9>
+				<T10 iLvl="1" minVal1="3" maxVal1="9" minVal2="0" maxVal2="0" displayText="+3-9 to Maximum Life"></T10></FlatLife>
+			<IncFlaskLifeRecovery text="#% Increased Flask Life Recovery Rate" modName="Flask Life Recovery">
+				<T1 iLvl="5" minVal1="10" maxVal1="20" minVal2="0" maxVal2="0" displayText="10-20% Increased Flask Life Recovery Rate"></T1></IncFlaskLifeRecovery>
+			<IncFlaskManaRecovery text="#% Increased Flask Mana Recovery Rate" modName="Flask Mana Recovery">
+				<T1 iLvl="5" minVal1="10" maxVal1="20" minVal2="0" maxVal2="0" displayText="10-20% Increased Flask Mana Recovery Rate"></T1></IncFlaskManaRecovery>
+			<IncEleDamageAttackSkills text="#% Increased Elemental Damage with Attack Skills" modName="EDA">
+				<T1 iLvl="86" minVal1="43" maxVal1="50" minVal2="0" maxVal2="0" displayText="43-50% Increased Elemental Damage with Attack Skills"></T1>
+				<T2 iLvl="81" minVal1="37" maxVal1="42" minVal2="0" maxVal2="0" displayText="37-42% Increased Elemental Damage with Attack Skills"></T2>
+				<T3 iLvl="60" minVal1="31" maxVal1="36" minVal2="0" maxVal2="0" displayText="31-36% Increased Elemental Damage with Attack Skills"></T3>
+				<T4 iLvl="30" minVal1="21" maxVal1="30" minVal2="0" maxVal2="0" displayText="21-30% Increased Elemental Damage with Attack Skills"></T4>
+				<T5 iLvl="15" minVal1="11" maxVal1="20" minVal2="0" maxVal2="0" displayText="11-20% Increased Elemental Damage with Attack Skills"></T5>
+				<T6 iLvl="4" minVal1="5" maxVal1="10" minVal2="0" maxVal2="0" displayText="5-10% Increased Elemental Damage with Attack Skills"></T6></IncEleDamageAttackSkills></Normal>
+			<Elder>
+			<PercentLife text="#% Increased Maximum Life" modName="% Life">
+				<T1 iLvl="75" minVal1="8" maxVal1="10" minVal2="0" maxVal2="0" displayText="8-10% Increased Maximum Life"></T1>
+				<T2 iLvl="68" minVal1="4" maxVal1="7" minVal2="0" maxVal2="0" displayText="4-7% Increased Maximum Life"></T2></PercentLife>
+			<IncEffectFlasks text="#% Increased Effect of Flasks on You" modName="Flask Effect">
+				<T1 iLvl="81" minVal1="8" maxVal1="10" minVal2="0" maxVal2="0" displayText="8-10% Increased Effect of Flasks on You"></T1>T1>
+				<T2 iLvl="75" minVal1="4" maxVal1="7" minVal2="0" maxVal2="0" displayText="4-7% Increased Effect of Flasks on You"></T2></IncEffectFlasks>
+			<FlaskConsumption text="#% Chance for your Flasks to not Consume Charges" modName="Flask Consumption">
+				<T1 iLvl="82" minVal1="6" maxVal1="10" minVal2="0" maxVal2="0" displayText="6-10% Chance for your Flasks to not Consume Charges"></T1></FlaskConsumption>
+			<Fortify text="#% Chance to Gain Fortify when You Stun an Enemy with Melee Damage" modName="Fortify">
+				<T1 iLvl="68" minVal1="8" maxVal1="12" minVal2="0" maxVal2="0" displayText="8-12% Chance to Gain Fortify when You Stun an Enemy with Melee Damage"></T1></Fortify>
+			<EnduringCry text="Grants Level # Enduring Cry Skill" modName="Enduring Cry">
+				<T1 iLvl="68" minVal1="22" maxVal1="22" minVal2="0" maxVal2="0" displayText="Grants Level 22 Enduring Cry Skill"></T1></EnduringCry>
+			<RallyingCry text="Grants Level # Rallying Cry Skill" modName="Rallying Cry">
+				<T1 iLvl="68" minVal1="22" maxVal1="22" minVal2="0" maxVal2="0" displayText="Grants Level 22 Rallying Cry Skill"></T1></RallyingCry></Elder>
+			<Shaper>
+			<AbyssalCry text="Grants Level # Abyssal Cry Skill" modName="Abyssal Cry">
+				<T1 iLvl="68" minVal1="22" maxVal1="22" minVal2="0" maxVal2="0" displayText="Grants Level 22 Abyssal Cry Skill"></T1></AbyssalCry>
+			<PercentEnergyShield text="#% Increased Maximum Energy Shield" modName="% Energy Shield">
+				<T1 iLvl="75" minVal1="8" maxVal1="10" minVal2="0" maxVal2="0" displayText="8-10% Increased Maximum Energy Shield"></T1>
+				<T2 iLvl="68" minVal1="4" maxVal1="7" minVal2="0" maxVal2="0" displayText="4-7% Increased Maximum Energy Shield"></T2></PercentEnergyShield>
+			<ReducedCriticalStrikes text="You take #% Reduced Extra Damage from Critical Strikes" modName="Reduced Critical Damage">
+				<T1 iLvl="75" minVal1="21" maxVal1="30" minVal2="0" maxVal2="0" displayText="You take 21-30% Reduced Damage from Critical Strikes"></T1>
+				<T2 iLvl="68" minVal1="15" maxVal1="20" minVal2="0" maxVal2="0" displayText="You take 15-20% Reduced Damage from Critical Strikes"></T2></ReducedCriticalStrikes></Shaper></Prefixes>
+		<Suffixes>
+			<Normal>
+			<Strength text="+# to Strength" modName="Strength">
+				<T1 iLvl="85" minVal1="56" maxVal1="60" minVal2="0" maxVal2="0" displayText="+56-60 to Strength"></T1></Strength>
+			</Normal><Elder></Elder><Shaper></Shaper></Suffixes></Belt>
+	<Ring text="Ring">
+		<Prefixes><Normal></Normal><Elder></Elder><Shaper></Shaper></Prefixes>
+		<Suffixes><Normal></Normal><Elder></Elder><Shaper></Shaper></Suffixes></Ring>
+	<Quiver text="Quiver">
+		<Prefixes><Normal></Normal><Elder></Elder><Shaper></Shaper></Prefixes>
+		<Suffixes><Normal></Normal><Elder></Elder><Shaper></Shaper></Suffixes></Quiver>
+	<Flask text="Flask">
+		<Prefixes><Normal></Normal><Elder></Elder><Shaper></Shaper></Prefixes>
+		<Suffixes><Normal></Normal><Elder></Elder><Shaper></Shaper></Suffixes></Flask>
+	<Map text="Map">
+		<Prefixes><Normal></Normal><Elder></Elder><Shaper></Shaper></Prefixes>
+		<Suffixes><Normal></Normal><Elder></Elder><Shaper></Shaper></Suffixes></Map>
+	<Strongbox text="Strongbox">
+		<Prefixes><Normal></Normal><Elder></Elder><Shaper></Shaper></Prefixes>
+		<Suffixes><Normal></Normal><Elder></Elder><Shaper></Shaper></Suffixes></Strongbox>
+	<JewelGhastly text="Jewel (Abyss: Ghastly)">
+		<Prefixes><Normal></Normal><Elder></Elder><Shaper></Shaper></Prefixes>
+		<Suffixes><Normal></Normal><Elder></Elder><Shaper></Shaper></Suffixes></JewelGhastly>
+	<JewelHypnotic text="Jewel (Abyss: Hypnotic)">
+		<Prefixes><Normal></Normal><Elder></Elder><Shaper></Shaper></Prefixes>
+		<Suffixes><Normal></Normal><Elder></Elder><Shaper></Shaper></Suffixes></JewelHypnotic>
+	<JewelMurderous text="Jewel (Abyss: Murderous)">
+		<Prefixes><Normal></Normal><Elder></Elder><Shaper></Shaper></Prefixes>
+		<Suffixes><Normal></Normal><Elder></Elder><Shaper></Shaper></Suffixes></JewelMurderous>
+	<JewelSearching text="Jewel (Abyss: Searching)">
+		<Prefixes><Normal></Normal><Elder></Elder><Shaper></Shaper></Prefixes>
+		<Suffixes><Normal></Normal><Elder></Elder><Shaper></Shaper></Suffixes></JewelSearching>
+	<JewelCobalt text="Jewel (Cobalt)">
+		<Prefixes><Normal></Normal><Elder></Elder><Shaper></Shaper></Prefixes>
+		<Suffixes><Normal></Normal><Elder></Elder><Shaper></Shaper></Suffixes></JewelCobalt>
+	<JewelCrimson text="Jewel (Crimson)">
+		<Prefixes><Normal></Normal><Elder></Elder><Shaper></Shaper></Prefixes>
+		<Suffixes><Normal></Normal><Elder></Elder><Shaper></Shaper></Suffixes></JewelCrimson>
+	<JewelViridian text="Jewel (Viridian)">
+		<Prefixes><Normal></Normal><Elder></Elder><Shaper></Shaper></Prefixes>
+		<Suffixes><Normal></Normal><Elder></Elder><Shaper></Shaper></Suffixes></JewelViridian>
+</Item>

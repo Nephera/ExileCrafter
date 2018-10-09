@@ -1,0 +1,701 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-03-17T10:38:54</date>
+  <millis>1521308334375</millis>
+  <sequence>0</sequence>
+  <logger>ECLogManager</logger>
+  <level>INFO</level>
+  <class>ECLogManager</class>
+  <method>logItem</method>
+  <thread>20</thread>
+  <message>Rarity: Rare
+Rapture Clasp
+Heavy Belt
+--------
+Requirements:
+Level: 57
+--------
+Item Level: 73
+--------
++32 to Strength
+--------
++251 to Armour
++24 to maximum Energy Shield
++92 to maximum Life
++36% to Fire Resistance
++43% to Lightning Resistance
++25% to Cold Resistance
+</message>
+</record>
+<record>
+  <date>2018-03-17T10:38:54</date>
+  <millis>1521308334410</millis>
+  <sequence>1</sequence>
+  <logger>ECLogManager</logger>
+  <level>INFO</level>
+  <class>ECLogManager</class>
+  <method>logMods</method>
+  <thread>20</thread>
+  <message>Item Raw Values
++ to Armour // 251 
++ to maximum Energy Shield // 24 
++ to maximum Life // 92 
++% to Fire Resistance // 36 
++% to Lightning Resistance // 43 
++% to Cold Resistance // 25 
+</message>
+</record>
+<record>
+  <date>2018-03-17T10:38:54</date>
+  <millis>1521308334412</millis>
+  <sequence>2</sequence>
+  <logger>ECLogManager</logger>
+  <level>INFO</level>
+  <class>ECLogManager</class>
+  <method>logMods</method>
+  <thread>20</thread>
+  <message>Guaranteed Prefix Raw Values
++ to Armour // 461 540 
++ to Maximum Life // 90 99 
+</message>
+</record>
+<record>
+  <date>2018-03-17T10:38:54</date>
+  <millis>1521308334413</millis>
+  <sequence>3</sequence>
+  <logger>ECLogManager</logger>
+  <level>INFO</level>
+  <class>ECLogManager</class>
+  <method>logMods</method>
+  <thread>20</thread>
+  <message>Guaranteed Suffix Raw Values
+</message>
+</record>
+<record>
+  <date>2018-03-17T10:38:54</date>
+  <millis>1521308334414</millis>
+  <sequence>4</sequence>
+  <logger>ECLogManager</logger>
+  <level>INFO</level>
+  <class>ECLogManager</class>
+  <method>logMods</method>
+  <thread>20</thread>
+  <message>Desired Prefix Raw Values
+</message>
+</record>
+<record>
+  <date>2018-03-17T10:38:54</date>
+  <millis>1521308334416</millis>
+  <sequence>5</sequence>
+  <logger>ECLogManager</logger>
+  <level>INFO</level>
+  <class>ECLogManager</class>
+  <method>logMods</method>
+  <thread>20</thread>
+  <message>Desired Suffix Raw Values
+</message>
+</record>
+<record>
+  <date>2018-03-17T10:38:54</date>
+  <millis>1521308334434</millis>
+  <sequence>6</sequence>
+  <logger>ECLogManager</logger>
+  <level>INFO</level>
+  <class>ECLogManager</class>
+  <method>logOrb</method>
+  <thread>20</thread>
+  <message>Rolling: SCOUR id:28 for itemRarity: RARE
+Prefixes Rolled: 3
+Suffixes Rolled: 0
+Guaranteed Prefixes: 2
+Guaranteed Suffixes: 0
+Desired Prefixes: 0
+Desired Suffixes: 0
+matchedGPrefix: 1
+matchedGSuffix: 0
+matchedDPrefix: 0
+matchedDSuffix: 0
+</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-03-17T21:10:01</date>
+  <millis>1521346201929</millis>
+  <sequence>0</sequence>
+  <logger>ECLogManager</logger>
+  <level>INFO</level>
+  <class>ECLogManager</class>
+  <method>logItem</method>
+  <thread>19</thread>
+  <message>Rarity: Currency
+Orb of Alteration
+--------
+Stack Size: 26/20
+--------
+Reforges a magic item with new random properties
+--------
+Right click this item then left click a magic item to apply it.
+Shift click to unstack.
+</message>
+</record>
+<record>
+  <date>2018-03-17T21:10:01</date>
+  <millis>1521346201968</millis>
+  <sequence>1</sequence>
+  <logger>ECLogManager</logger>
+  <level>INFO</level>
+  <class>ECLogManager</class>
+  <method>logMods</method>
+  <thread>19</thread>
+  <message>Item Raw Values
+Right click this item then left click a magic item to apply it. // . 
+Shift click to unstack. // . 
+</message>
+</record>
+<record>
+  <date>2018-03-17T21:10:01</date>
+  <millis>1521346201970</millis>
+  <sequence>2</sequence>
+  <logger>ECLogManager</logger>
+  <level>INFO</level>
+  <class>ECLogManager</class>
+  <method>logMods</method>
+  <thread>19</thread>
+  <message>Guaranteed Prefix Raw Values
+</message>
+</record>
+<record>
+  <date>2018-03-17T21:10:01</date>
+  <millis>1521346201972</millis>
+  <sequence>3</sequence>
+  <logger>ECLogManager</logger>
+  <level>INFO</level>
+  <class>ECLogManager</class>
+  <method>logMods</method>
+  <thread>19</thread>
+  <message>Guaranteed Suffix Raw Values
+</message>
+</record>
+<record>
+  <date>2018-03-17T21:10:01</date>
+  <millis>1521346201973</millis>
+  <sequence>4</sequence>
+  <logger>ECLogManager</logger>
+  <level>INFO</level>
+  <class>ECLogManager</class>
+  <method>logMods</method>
+  <thread>19</thread>
+  <message>Desired Prefix Raw Values
+</message>
+</record>
+<record>
+  <date>2018-03-17T21:10:01</date>
+  <millis>1521346201976</millis>
+  <sequence>5</sequence>
+  <logger>ECLogManager</logger>
+  <level>INFO</level>
+  <class>ECLogManager</class>
+  <method>logMods</method>
+  <thread>19</thread>
+  <message>Desired Suffix Raw Values
+</message>
+</record>
+<record>
+  <date>2018-03-17T21:10:01</date>
+  <millis>1521346201979</millis>
+  <sequence>6</sequence>
+  <logger>ECLogManager</logger>
+  <level>INFO</level>
+  <class>ECLogManager</class>
+  <method>logOrb</method>
+  <thread>19</thread>
+  <message>Rolling: TRANSMUTATION id:1 for itemRarity: NORMAL
+Prefixes Rolled: 0
+Suffixes Rolled: 0
+Guaranteed Prefixes: 0
+Guaranteed Suffixes: 0
+Desired Prefixes: 0
+Desired Suffixes: 0
+matchedGPrefix: 0
+matchedGSuffix: 0
+matchedDPrefix: 0
+matchedDSuffix: 0
+</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-03-18T22:49:43</date>
+  <millis>1521438583203</millis>
+  <sequence>0</sequence>
+  <logger>ECLogManager</logger>
+  <level>INFO</level>
+  <class>ECLogManager</class>
+  <method>logItem</method>
+  <thread>19</thread>
+  <message>Rarity: Rare
+Rapture Clasp
+Heavy Belt
+--------
+Requirements:
+Level: 57
+--------
+Item Level: 73
+--------
++32 to Strength
+--------
++251 to Armour
++24 to maximum Energy Shield
++92 to maximum Life
++36% to Fire Resistance
++43% to Lightning Resistance
++25% to Cold Resistance
+</message>
+</record>
+<record>
+  <date>2018-03-18T22:49:43</date>
+  <millis>1521438583251</millis>
+  <sequence>1</sequence>
+  <logger>ECLogManager</logger>
+  <level>INFO</level>
+  <class>ECLogManager</class>
+  <method>logMods</method>
+  <thread>19</thread>
+  <message>Item Raw Values
++ to Armour // 251 
++ to maximum Energy Shield // 24 
++ to maximum Life // 92 
++% to Fire Resistance // 36 
++% to Lightning Resistance // 43 
++% to Cold Resistance // 25 
+</message>
+</record>
+<record>
+  <date>2018-03-18T22:49:43</date>
+  <millis>1521438583253</millis>
+  <sequence>2</sequence>
+  <logger>ECLogManager</logger>
+  <level>INFO</level>
+  <class>ECLogManager</class>
+  <method>logMods</method>
+  <thread>19</thread>
+  <message>Guaranteed Prefix Raw Values
+</message>
+</record>
+<record>
+  <date>2018-03-18T22:49:43</date>
+  <millis>1521438583254</millis>
+  <sequence>3</sequence>
+  <logger>ECLogManager</logger>
+  <level>INFO</level>
+  <class>ECLogManager</class>
+  <method>logMods</method>
+  <thread>19</thread>
+  <message>Guaranteed Suffix Raw Values
+</message>
+</record>
+<record>
+  <date>2018-03-18T22:49:43</date>
+  <millis>1521438583256</millis>
+  <sequence>4</sequence>
+  <logger>ECLogManager</logger>
+  <level>INFO</level>
+  <class>ECLogManager</class>
+  <method>logMods</method>
+  <thread>19</thread>
+  <message>Desired Prefix Raw Values
+</message>
+</record>
+<record>
+  <date>2018-03-18T22:49:43</date>
+  <millis>1521438583257</millis>
+  <sequence>5</sequence>
+  <logger>ECLogManager</logger>
+  <level>INFO</level>
+  <class>ECLogManager</class>
+  <method>logMods</method>
+  <thread>19</thread>
+  <message>Desired Suffix Raw Values
+</message>
+</record>
+<record>
+  <date>2018-03-18T22:49:43</date>
+  <millis>1521438583262</millis>
+  <sequence>6</sequence>
+  <logger>ECLogManager</logger>
+  <level>INFO</level>
+  <class>ECLogManager</class>
+  <method>logOrb</method>
+  <thread>19</thread>
+  <message>Rolling: NONE id:29 for itemRarity: RARE
+Prefixes Rolled: 0
+Suffixes Rolled: 0
+Guaranteed Prefixes: 0
+Guaranteed Suffixes: 0
+Desired Prefixes: 0
+Desired Suffixes: 0
+matchedGPrefix: 0
+matchedGSuffix: 0
+matchedDPrefix: 0
+matchedDSuffix: 0
+</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-03-19T12:21:22</date>
+  <millis>1521487282473</millis>
+  <sequence>0</sequence>
+  <logger>ECLogManager</logger>
+  <level>INFO</level>
+  <class>ECLogManager</class>
+  <method>logItem</method>
+  <thread>23</thread>
+  <message>		// Give time for clipboard to be written
+		try {TimeUnit.MILLISECONDS.sleep(50);} 
+		catch (InterruptedException e1) {e1.printStackTrace();}</message>
+</record>
+<record>
+  <date>2018-03-19T12:21:22</date>
+  <millis>1521487282506</millis>
+  <sequence>1</sequence>
+  <logger>ECLogManager</logger>
+  <level>INFO</level>
+  <class>ECLogManager</class>
+  <method>logMods</method>
+  <thread>23</thread>
+  <message>Item Raw Values
+e time for clipboard to be written //  
+		try {TimeUnit.MILLISECONDS.sleep();}  // {..(50);} 
+</message>
+</record>
+<record>
+  <date>2018-03-19T12:21:22</date>
+  <millis>1521487282507</millis>
+  <sequence>2</sequence>
+  <logger>ECLogManager</logger>
+  <level>INFO</level>
+  <class>ECLogManager</class>
+  <method>logMods</method>
+  <thread>23</thread>
+  <message>Guaranteed Prefix Raw Values
+</message>
+</record>
+<record>
+  <date>2018-03-19T12:21:22</date>
+  <millis>1521487282508</millis>
+  <sequence>3</sequence>
+  <logger>ECLogManager</logger>
+  <level>INFO</level>
+  <class>ECLogManager</class>
+  <method>logMods</method>
+  <thread>23</thread>
+  <message>Guaranteed Suffix Raw Values
+</message>
+</record>
+<record>
+  <date>2018-03-19T12:21:22</date>
+  <millis>1521487282509</millis>
+  <sequence>4</sequence>
+  <logger>ECLogManager</logger>
+  <level>INFO</level>
+  <class>ECLogManager</class>
+  <method>logMods</method>
+  <thread>23</thread>
+  <message>Desired Prefix Raw Values
+</message>
+</record>
+<record>
+  <date>2018-03-19T12:21:22</date>
+  <millis>1521487282511</millis>
+  <sequence>5</sequence>
+  <logger>ECLogManager</logger>
+  <level>INFO</level>
+  <class>ECLogManager</class>
+  <method>logMods</method>
+  <thread>23</thread>
+  <message>Desired Suffix Raw Values
+</message>
+</record>
+<record>
+  <date>2018-03-19T12:21:22</date>
+  <millis>1521487282514</millis>
+  <sequence>6</sequence>
+  <logger>ECLogManager</logger>
+  <level>INFO</level>
+  <class>ECLogManager</class>
+  <method>logOrb</method>
+  <thread>23</thread>
+  <message>Rolling: TRANSMUTATION id:1 for itemRarity: NORMAL
+Prefixes Rolled: 0
+Suffixes Rolled: 0
+Guaranteed Prefixes: 0
+Guaranteed Suffixes: 0
+Desired Prefixes: 0
+Desired Suffixes: 0
+matchedGPrefix: 0
+matchedGSuffix: 0
+matchedDPrefix: 0
+matchedDSuffix: 0
+</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-03-19T12:22:55</date>
+  <millis>1521487375177</millis>
+  <sequence>0</sequence>
+  <logger>ECLogManager</logger>
+  <level>INFO</level>
+  <class>ECLogManager</class>
+  <method>logItem</method>
+  <thread>23</thread>
+  <message>		// Give time for clipboard to be written
+		try {TimeUnit.MILLISECONDS.sleep(50);} 
+		catch (InterruptedException e1) {e1.printStackTrace();}</message>
+</record>
+<record>
+  <date>2018-03-19T12:22:55</date>
+  <millis>1521487375209</millis>
+  <sequence>1</sequence>
+  <logger>ECLogManager</logger>
+  <level>INFO</level>
+  <class>ECLogManager</class>
+  <method>logMods</method>
+  <thread>23</thread>
+  <message>Item Raw Values
+e time for clipboard to be written //  
+		try {TimeUnit.MILLISECONDS.sleep();}  // {..(50);} 
+</message>
+</record>
+<record>
+  <date>2018-03-19T12:22:55</date>
+  <millis>1521487375210</millis>
+  <sequence>2</sequence>
+  <logger>ECLogManager</logger>
+  <level>INFO</level>
+  <class>ECLogManager</class>
+  <method>logMods</method>
+  <thread>23</thread>
+  <message>Guaranteed Prefix Raw Values
+</message>
+</record>
+<record>
+  <date>2018-03-19T12:22:55</date>
+  <millis>1521487375212</millis>
+  <sequence>3</sequence>
+  <logger>ECLogManager</logger>
+  <level>INFO</level>
+  <class>ECLogManager</class>
+  <method>logMods</method>
+  <thread>23</thread>
+  <message>Guaranteed Suffix Raw Values
+</message>
+</record>
+<record>
+  <date>2018-03-19T12:22:55</date>
+  <millis>1521487375213</millis>
+  <sequence>4</sequence>
+  <logger>ECLogManager</logger>
+  <level>INFO</level>
+  <class>ECLogManager</class>
+  <method>logMods</method>
+  <thread>23</thread>
+  <message>Desired Prefix Raw Values
+</message>
+</record>
+<record>
+  <date>2018-03-19T12:22:55</date>
+  <millis>1521487375214</millis>
+  <sequence>5</sequence>
+  <logger>ECLogManager</logger>
+  <level>INFO</level>
+  <class>ECLogManager</class>
+  <method>logMods</method>
+  <thread>23</thread>
+  <message>Desired Suffix Raw Values
+</message>
+</record>
+<record>
+  <date>2018-03-19T12:22:55</date>
+  <millis>1521487375217</millis>
+  <sequence>6</sequence>
+  <logger>ECLogManager</logger>
+  <level>INFO</level>
+  <class>ECLogManager</class>
+  <method>logOrb</method>
+  <thread>23</thread>
+  <message>Rolling: TRANSMUTATION id:1 for itemRarity: NORMAL
+Prefixes Rolled: 0
+Suffixes Rolled: 0
+Guaranteed Prefixes: 0
+Guaranteed Suffixes: 0
+Desired Prefixes: 0
+Desired Suffixes: 0
+matchedGPrefix: 0
+matchedGSuffix: 0
+matchedDPrefix: 0
+matchedDSuffix: 0
+</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-03-19T12:24:10</date>
+  <millis>1521487450548</millis>
+  <sequence>0</sequence>
+  <logger>ECLogManager</logger>
+  <level>INFO</level>
+  <class>ECLogManager</class>
+  <method>logItem</method>
+  <thread>23</thread>
+  <message>		// Give time for clipboard to be written
+		try {TimeUnit.MILLISECONDS.sleep(50);} 
+		catch (InterruptedException e1) {e1.printStackTrace();}</message>
+</record>
+<record>
+  <date>2018-03-19T12:24:10</date>
+  <millis>1521487450581</millis>
+  <sequence>1</sequence>
+  <logger>ECLogManager</logger>
+  <level>INFO</level>
+  <class>ECLogManager</class>
+  <method>logMods</method>
+  <thread>23</thread>
+  <message>Item Raw Values
+e time for clipboard to be written //  
+		try {TimeUnit.MILLISECONDS.sleep();}  // {..(50);} 
+</message>
+</record>
+<record>
+  <date>2018-03-19T12:24:10</date>
+  <millis>1521487450582</millis>
+  <sequence>2</sequence>
+  <logger>ECLogManager</logger>
+  <level>INFO</level>
+  <class>ECLogManager</class>
+  <method>logMods</method>
+  <thread>23</thread>
+  <message>Guaranteed Prefix Raw Values
+</message>
+</record>
+<record>
+  <date>2018-03-19T12:24:10</date>
+  <millis>1521487450583</millis>
+  <sequence>3</sequence>
+  <logger>ECLogManager</logger>
+  <level>INFO</level>
+  <class>ECLogManager</class>
+  <method>logMods</method>
+  <thread>23</thread>
+  <message>Guaranteed Suffix Raw Values
+</message>
+</record>
+<record>
+  <date>2018-03-19T12:24:10</date>
+  <millis>1521487450585</millis>
+  <sequence>4</sequence>
+  <logger>ECLogManager</logger>
+  <level>INFO</level>
+  <class>ECLogManager</class>
+  <method>logMods</method>
+  <thread>23</thread>
+  <message>Desired Prefix Raw Values
+</message>
+</record>
+<record>
+  <date>2018-03-19T12:24:10</date>
+  <millis>1521487450586</millis>
+  <sequence>5</sequence>
+  <logger>ECLogManager</logger>
+  <level>INFO</level>
+  <class>ECLogManager</class>
+  <method>logMods</method>
+  <thread>23</thread>
+  <message>Desired Suffix Raw Values
+</message>
+</record>
+<record>
+  <date>2018-03-19T12:24:10</date>
+  <millis>1521487450590</millis>
+  <sequence>6</sequence>
+  <logger>ECLogManager</logger>
+  <level>INFO</level>
+  <class>ECLogManager</class>
+  <method>logOrb</method>
+  <thread>23</thread>
+  <message>Rolling: TRANSMUTATION id:1 for itemRarity: NORMAL
+Prefixes Rolled: 0
+Suffixes Rolled: 0
+Guaranteed Prefixes: 0
+Guaranteed Suffixes: 0
+Desired Prefixes: 0
+Desired Suffixes: 0
+matchedGPrefix: 0
+matchedGSuffix: 0
+matchedDPrefix: 0
+matchedDSuffix: 0
+</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
